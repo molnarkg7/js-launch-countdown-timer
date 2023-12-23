@@ -2,7 +2,7 @@
 
 ## Live Site URL:
 
--
+- https://molnarkg7.github.io/js-launch-countdown-timer/
 
 ## Build With
 
