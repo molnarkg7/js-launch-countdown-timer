@@ -81,6 +81,10 @@ footer {
   justify-content: space-between;
 }
 
+.icon {
+  cursor: pointer;
+}
+
 .hills {
   z-index: -1000;
   background-repeat: no-repeat;
